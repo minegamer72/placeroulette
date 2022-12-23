@@ -1,4 +1,4 @@
-# placeroulette
+# placeroulette now has a download at https://addons.mozilla.org/en-US/firefox/addon/place-roulette/ !
 This extension attempts to recreate the Place Roulette game on roblox.
 The chrome version can be found at: https://github.com/codwarrior/placeroulette-chrome
 
@@ -8,4 +8,4 @@ Todo:
 - Make option to change the number range that the code uses (currently 9-10 digits)
 - Create a check to see if the ID that is loaded is actually a game or not without DDoSing roblox
 - Make HTML look prettier
-- Upload to FireFox store
+
